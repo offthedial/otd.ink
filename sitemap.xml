@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://otd.ink/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://otd.ink/bot</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://otd.ink/discord</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://otd.ink/feedback</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://otd.ink/github</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://otd.ink/patreon</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://otd.ink/twitch</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://otd.ink/twitter</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://otd.ink/youtube</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://otd.ink/idtga</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://otd.ink/posts</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://otd.ink/profile</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://otd.ink/signup/complete</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://otd.ink/signup</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://otd.ink/staff/apply</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://otd.ink/staff</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://otd.ink/wl</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://otd.ink/profile/login/error</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://otd.ink/profile/login</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://otd.ink/faq</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://otd.ink/legal</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://otd.ink/idtga/rules</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://otd.ink/posts/a-brief-hiatus</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://otd.ink/posts/dial-in-2020</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://otd.ink/posts/hello-world</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://otd.ink/posts/idtga-dec-2020</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://otd.ink/posts/idtga-feb-2021</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://otd.ink/posts/idtga-jan-2021</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://otd.ink/posts/idtga-june-2020</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://otd.ink/posts/idtga-mar-2021</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://otd.ink/posts/idtga-may-2021</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://otd.ink/posts/idtga-sep-2021</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://otd.ink/posts/redesign</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://otd.ink/posts/site-refresh</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://otd.ink/posts/storymode-final</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://otd.ink/posts/weakest-link-tips</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://otd.ink/posts/wl-july-2020</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://otd.ink/posts/wl-sep-2020</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://otd.ink/staff/0-djam</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://otd.ink/staff/1-lepto</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://otd.ink/staff/2-zada</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://otd.ink/wl/rules</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+</urlset>
